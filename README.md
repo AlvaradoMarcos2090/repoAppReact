@@ -37,4 +37,4 @@ git push origin main
 
 --####################################################################################
 Promover branch to master
-git push -f origin/development:master 
+git push -f origin/main:master 
