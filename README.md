@@ -36,5 +36,9 @@ git commit -m "update"
 git push origin main
 
 --####################################################################################
-Promover branch to master
-git push -f origin/main:master 
+Promover branch to X_Branch
+
+git push -f origin X_Branch
+git push -f origin/main:X_Branch 
+
+--####################################################################################
